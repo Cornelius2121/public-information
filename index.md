@@ -2,7 +2,7 @@
 
 
 This is my personal information site where you can find out more about me....
-![This is me.](profile_image.jpg)
+![This is me.](profile_image_circle.png)
 
 
 Shame its under construction.
